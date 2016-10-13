@@ -31,5 +31,8 @@
   "dependencies": {
     "stylelint": "^6.8.0",
     "stylelint-rule-tester": "^0.6.2"
+  },
+  "peerDependencies": {
+    "table": "3.7.9",
   }
 }
